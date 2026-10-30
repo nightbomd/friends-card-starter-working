@@ -1,0 +1,32 @@
+[
+    {
+        "name": "banawhat",
+        "relationship": "fbla partner",
+        "hobbies": ["volley ball", "speaking english", "coding"],
+        "detail": "Banawhat TANG really wants to go to rutgers but he sucks at taking the sat becuase huis english is like 570 and his math is like 770"
+    },
+    {
+        "name": "tony perevez",
+        "relationship": "someone I tease",
+        "detail": "tony doesnt go to the gym or get a job he's like skipped the gym 50 times",
+        "hobbies": ["not working", "sleeping", "not going to the gym"]
+    },
+    {
+        "name": "neil",
+        "relationship": "friend",
+        "detail": "neil is apart of rutgers model congress byut heb is really bad at calc. He is also apart of the business program at marlboro highschool.",
+        "hobbies": ["rutgers model congress", "being bad at calc", "linkedin maximizing"]
+    },
+    {
+        "name": "vishaan",
+        "relationship": "friend",
+        "detail": "vishaan is a really good friend of mine and he is really smart in calc and hes apart of the business program but hes really bad at cross country",
+        "hobbies": ["being smart in calc", "being apart of the business program", "being bad at cross country"]
+    },
+    {
+        "name": "thyschell jackson",
+        "relationship": "friend",
+        "detail": "thyschell is a really good at track and really good at triple jump",
+        "hobbies": ["being good at track", "being good at triple jump", "being funny"]
+    }
+]
